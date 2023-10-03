@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ps-productions/static/css/main.6ffe6241.css",
+    "main.js": "/ps-productions/static/js/main.737dbbd7.js",
+    "static/js/787.1fbae28d.chunk.js": "/ps-productions/static/js/787.1fbae28d.chunk.js",
+    "static/media/playstation-productions-intro.mp4": "/ps-productions/static/media/playstation-productions-intro.09a069a98295757a8b70.mp4",
+    "static/media/gran-turismo.jpeg": "/ps-productions/static/media/gran-turismo.deb85bce7f84ff3c2671.jpeg",
+    "static/media/twisted-metal.jpeg": "/ps-productions/static/media/twisted-metal.1a4ed63d3a5ea1bf3673.jpeg",
+    "static/media/uncharted.jpg": "/ps-productions/static/media/uncharted.37a29269f1eba33da2fa.jpg",
+    "static/media/the-last-of-us.webp": "/ps-productions/static/media/the-last-of-us.eb860efbb2c1ca05f69d.webp",
+    "static/media/asad-qizilbash.webp": "/ps-productions/static/media/asad-qizilbash.67c566a09908313afa50.webp",
+    "static/media/god-of-war.webp": "/ps-productions/static/media/god-of-war.9056d95572148bc775e2.webp",
+    "static/media/horizon.webp": "/ps-productions/static/media/horizon.fc70cc2dd9194d753047.webp",
+    "static/media/ghost-of-tsushima.webp": "/ps-productions/static/media/ghost-of-tsushima.671b32bc50467e071278.webp",
+    "static/media/playstation-productions-hero.webp": "/ps-productions/static/media/playstation-productions-hero.aac45b63984cbbca87f8.webp",
+    "index.html": "/ps-productions/index.html",
+    "main.6ffe6241.css.map": "/ps-productions/static/css/main.6ffe6241.css.map",
+    "main.737dbbd7.js.map": "/ps-productions/static/js/main.737dbbd7.js.map",
+    "787.1fbae28d.chunk.js.map": "/ps-productions/static/js/787.1fbae28d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ffe6241.css",
+    "static/js/main.737dbbd7.js"
+  ]
+}
