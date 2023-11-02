@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ps-productions/static/css/main.6ffe6241.css",
-    "main.js": "/ps-productions/static/js/main.ff3d4d8f.js",
+    "main.js": "/ps-productions/static/js/main.8b82b697.js",
     "static/js/787.1fbae28d.chunk.js": "/ps-productions/static/js/787.1fbae28d.chunk.js",
     "static/media/playstation-productions-intro.mp4": "/ps-productions/static/media/playstation-productions-intro.09a069a98295757a8b70.mp4",
     "static/media/gran-turismo.jpeg": "/ps-productions/static/media/gran-turismo.deb85bce7f84ff3c2671.jpeg",
@@ -15,11 +15,11 @@
     "static/media/playstation-productions-hero.webp": "/ps-productions/static/media/playstation-productions-hero.aac45b63984cbbca87f8.webp",
     "index.html": "/ps-productions/index.html",
     "main.6ffe6241.css.map": "/ps-productions/static/css/main.6ffe6241.css.map",
-    "main.ff3d4d8f.js.map": "/ps-productions/static/js/main.ff3d4d8f.js.map",
+    "main.8b82b697.js.map": "/ps-productions/static/js/main.8b82b697.js.map",
     "787.1fbae28d.chunk.js.map": "/ps-productions/static/js/787.1fbae28d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ffe6241.css",
-    "static/js/main.ff3d4d8f.js"
+    "static/js/main.8b82b697.js"
   ]
 }
