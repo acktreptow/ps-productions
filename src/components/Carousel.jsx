@@ -28,8 +28,7 @@ const productions = [
   {
     name: "Twisted Metal",
     id: 3,
-    description:
-      "Anthony Mackie delivers a package across a post-apocalyptic USA.",
+    description: "A hilarious journey across a post-apocalyptic USA.",
     link: "https://youtu.be/98qKqfBP6OA",
     image: twistedMetalImg,
     text: "Third slide",
@@ -38,7 +37,7 @@ const productions = [
     name: "Gran Turismo",
     id: 4,
     description:
-      "Dreams are meant to be chased. The true story of a gamer turned racer.",
+      "Dreams should be chased. The true story of a gamer turned racer.",
     link: "https://youtu.be/GVPzGBvPrzw",
     image: granTurismoImg,
     text: "Fourth slide",
