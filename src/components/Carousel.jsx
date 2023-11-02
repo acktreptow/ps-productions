@@ -60,7 +60,7 @@ function ReleasedProductions() {
             />
             <Carousel.Caption className="bg-dark bg-opacity-75 rounded">
               <h3>{production.name}</h3>
-              <p className="lead">{production.description}</p>
+              <p>{production.description}</p>
               <Button
                 className="bg-light text-dark fw-bold mb-2"
                 href={production.link}
