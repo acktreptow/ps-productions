@@ -12,7 +12,7 @@ const productions = [
     name: "Horizon",
     id: 1,
     description:
-      "In an era where machines roam the land and mankind is no longer the dominant species, a young hunter named Aloy embarks on a journey to discover her destiny. Discover a world of majestic nature, awe-inspiring machines and the last remnants of mankind.",
+      "In an era where machines roam the land and mankind is no longer the dominant species, a young hunter named Aloy embarks on a harrowing journey to discover her destiny. Discover a world of majestic nature, awe-inspiring machines and the remnants of mankind.",
     image: horizon,
     link: "https://www.playstation.com/en-us/horizon/",
     button: "Explore The Horizon Universe",
@@ -21,7 +21,7 @@ const productions = [
     name: "God Of War",
     id: 2,
     description:
-      "Join Kratos and Atreus on a mythic journey for answers before Ragnarök arrives. Together, father and son must put everything on the line as they journey to each of the Nine Realms. Finding surprising allies and foes along the way.",
+      "Join Kratos and Atreus on a mythical journey for answers before Ragnarök arrives. Together, the infamous father and son must put everything on the line, including their lives, as they journey to each of the Nine Realms. Finding surprising allies and foes along the way to Asgard.",
     image: godOfWar,
     link: "https://www.playstation.com/en-us/god-of-war/",
     button: "Explore The God Of War Universe",
@@ -30,10 +30,10 @@ const productions = [
     name: "Ghost Of Tsushima",
     id: 3,
     description:
-      "Uncover the hidden wonders of Tsushima and venture beyond the battlefield to experience feudal Japan like never before. When the Mongols handily defeat the samurai forces, Jin is faced with the most difficult decision of his life.",
+      "Uncover the hidden wonders of Tsushima and venture beyond the battlefield to experience feudal Japan like never before. When the Mongols handily defeat the samurai forces, Jin is faced with the most difficult decision of his life. Become the ghost, or remain as a samurai.",
     image: ghostOfTsushima,
     link: "https://www.playstation.com/en-us/games/ghost-of-tsushima/",
-    button: "Explore The Ghost Of Tsushima Universe",
+    button: "Explore The Tsushima Universe",
   },
 ];
 
@@ -54,7 +54,7 @@ function FutureProductions() {
                 src={production.image}
                 alt="A future PlayStation Production"
               />
-              <Card.Body>
+              <Card.Body id="bottomCard">
                 <Card.Title>{production.name}</Card.Title>
                 <Card.Text>{production.description}</Card.Text>
                 <Button
