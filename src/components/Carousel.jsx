@@ -20,8 +20,7 @@ const productions = [
   {
     name: "The Last of Us",
     id: 2,
-    description:
-      "The critically acclaimed story brought to life for TV. Starring Pedro Pascal & Bella Ramsey.",
+    description: "The critically acclaimed story brought to life for TV.",
     link: "https://youtu.be/uLtkt8BonwM",
     image: theLastOfUsImg,
     text: "Second slide",
@@ -30,7 +29,7 @@ const productions = [
     name: "Twisted Metal",
     id: 3,
     description:
-      "Anthony Mackie must deliver a mysterious package across a post-apocalyptic wasteland. Buckle up.",
+      "Anthony Mackie delivers a package across a post-apocalyptic USA.",
     link: "https://youtu.be/98qKqfBP6OA",
     image: twistedMetalImg,
     text: "Third slide",
@@ -39,7 +38,7 @@ const productions = [
     name: "Gran Turismo",
     id: 4,
     description:
-      "Dreams are meant to be chased. Based on the incredible true story of a gamer who became a racer.",
+      "Dreams are meant to be chased. The true story of a gamer turned racer.",
     link: "https://youtu.be/GVPzGBvPrzw",
     image: granTurismoImg,
     text: "Fourth slide",
@@ -59,7 +58,7 @@ function ReleasedProductions() {
               alt="A released PlayStation Production"
             />
             <Carousel.Caption className="bg-dark bg-opacity-75 rounded">
-              <h3>{production.name}</h3>
+              <h4>{production.name}</h4>
               <p>{production.description}</p>
               <Button
                 className="bg-light text-dark fw-bold mb-2"
