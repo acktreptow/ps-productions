@@ -4,10 +4,10 @@ This homepage for PlayStation's TV and movie division that uses both React and B
 
 ## Technologies Used:
 
-- HTML
-- CSS
-- Bootstrap
 - React
+- Bootstrap
+- CSS
+- HTML
 
 ## Project Overview
 
