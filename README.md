@@ -1,6 +1,6 @@
 # PlayStation Productions React Bootstrap Homepage
 
-This homepage for PlayStation's TV and movie division is my first application that uses both React and Bootstrap.
+This homepage for PlayStation's TV and movie division that uses both React and Bootstrap.
 
 ## Technologies Used:
 
