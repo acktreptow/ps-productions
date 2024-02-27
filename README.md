@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 
 ## Future Enhancements
 
-Barring unforeseen circumstances, I don't plan on updating this project as I have achieved my goal of creating a responsive homepage that uses both React and Bootstrap.
+Unlikely, as I achieved my goal of creating a responsive homepage that uses both React and Bootstrap.
 
 ## Contact
 
