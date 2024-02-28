@@ -15,9 +15,7 @@ This project was primarily for getting first-hand experience with Bootstrap in R
 
 It also helped further ingrain the library's generally accepted standards. For example, I ensured that each section was broken up into their own component, which adhere to DRY by utilizing techniques like the .map higher-order function for the arrays of objects.
 
-Finally, I used this opportunity to implement Bootstrap components I hadn't used before. For example, I applied a carousel to showcase the TV shows/movies that PlayStation Productions had already released. I also used custom CSS to give some components a PlayStation-inspired background color. A little bit went a long way from preventing the homepage from looking too 'Bootstrappy'.
-
-I look forward to using these applications together again in future, more advanced projects.
+Additionally, I used this opportunity to implement Bootstrap components I hadn't previously used. Like a carousel to showcase TV shows and movies. Finally, I also used custom CSS to give some components a PlayStation-inspired background color. A little bit went a long way from preventing the homepage from looking too 'Bootstrappy'.
 
 ## Installation
 
