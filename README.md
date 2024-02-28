@@ -13,7 +13,7 @@ This homepage for PlayStation's TV and movie division that uses both React and B
 
 This project was primarily for getting first-hand experience with Bootstrap in React, and to see how it differs from vanilla Bootstrap.
 
-It also gave me more experience in React, which helped further ingrain the library's generally accepted standards. For example, I ensured that all parts of the homepage were broken up into their own, correctly formatted components. The components also adhere to DRY by utilizing techniques like the map higher-order function for the arrays of objects.
+It also helped further ingrain the library's generally accepted standards. For example, I ensured that each section was broken up into their own component, which adhere to DRY by utilizing techniques like the .map higher-order function for the arrays of objects.
 
 Finally, I used this opportunity to implement Bootstrap components I hadn't used before. For example, I applied a carousel to showcase the TV shows/movies that PlayStation Productions had already released. I also used custom CSS to give some components a PlayStation-inspired background color. A little bit went a long way from preventing the homepage from looking too 'Bootstrappy'.
 
