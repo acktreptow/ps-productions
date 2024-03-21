@@ -37,7 +37,7 @@ function Hero() {
             href={intro}
             target="_blank"
           >
-            Our Mission Intro
+            More Info
           </Button>
         </Col>
       </Row>
